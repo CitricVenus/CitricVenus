@@ -2,7 +2,10 @@
 <h2>  <img src="https://media.giphy.com/media/oASEJVd5lkgMBMDCcl/giphy.gif" width="70"> Hi, I'm Erick Montan!</h2>
 
 <div align="center">
+   <h2>Languajes</h2>
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
+  
 
 </div>
 <!--
