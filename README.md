@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2> Hi, I'm Erick Montan! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://giphy.com/stickers/happy-paperdog-paperdoggg-UWWE18mB2qLNzWfJnW)" width="50"></h2>
+<h2> Hi, I'm Erick Montan! <img src="https://media.giphy.com/media/UWWE18mB2qLNzWfJnW/giphy.gif" width="50"></h2>
 <!--
 **CitricVenus/Citricvenus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - Discord: [`Nishant1500#9735`](https://discord.com/users/908563963392958464)
