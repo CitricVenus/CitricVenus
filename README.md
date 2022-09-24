@@ -27,6 +27,8 @@
    <a href="https://www.instagram.com/monttiiy/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram" height="55" /></a>
    </p>
    </details>
+   <hr>
+   </hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CitricVenus&langs_count=8)](https://github.com/CitricVenus/github-readme-stats)
 <p> NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.</p>
