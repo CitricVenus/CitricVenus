@@ -11,10 +11,10 @@
    <hr>
    <details>
      <summary align="center">Languajes  <img src="https://media.giphy.com/media/V5bKTyV5kt3snXvVVj/giphy.gif" width="50"> </summary>
-     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" />  
-     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" />
-     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45" />  
-     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="45" />  
+     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" align="center" />  
+     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" align="center"/>
+     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45" align="center"/>  
+     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="45" align="center"/>  
    </details>
    <hr>
    <details>
@@ -24,8 +24,9 @@
    <a href="https://www.instagram.com/monttiiy/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram" height="55" /></a>
    </details>
 <hr>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CitricVenus&langs_count=8)](https://github.com/CitricVenus/github-readme-stats)
-   <p> NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CitricVenus&langs_count=8)](https://github.com/CitricVenus/github-readme-stats)
+<p> NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.</p>
 </details>
 
 
