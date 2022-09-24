@@ -1,5 +1,5 @@
 
-<h2> <p align="center"> <img src="https://media.giphy.com/media/oASEJVd5lkgMBMDCcl/giphy.gif" width="70"> Hi, I'm Erick Montan! <img src="https://media.giphy.com/media/oASEJVd5lkgMBMDCcl/giphy.gif" width="70"> </p> </h2>
+<h2> <p align="center"> <img src="https://media.giphy.com/media/oASEJVd5lkgMBMDCcl/giphy.gif" width="50"> Hi, I'm Erick Montan! <img src="https://media.giphy.com/media/oASEJVd5lkgMBMDCcl/giphy.gif" width="50"> </p> </h2>
 <br>
    <h1><p align="center"> About Me </p> </h1>
     <p> I am from Mexico </p>
