@@ -22,4 +22,8 @@
 <a href="https://www.instagram.com/monttiiy/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram" height="55" /></a>
 </details>
 
+<details>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/CitricVenus=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
 
