@@ -8,7 +8,7 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
  
 
-</div>
+</details>
 <!--
 **CitricVenus/Citricvenus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - Discord: [`Nishant1500#9735`](https://discord.com/users/908563963392958464)
