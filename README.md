@@ -1,10 +1,11 @@
 
 <h2>  <img src="https://media.giphy.com/media/oASEJVd5lkgMBMDCcl/giphy.gif" width="70"> Hi, I'm Erick Montan!</h2>
 
-   <summary> <p align="center"> About Me </p> </summary>
-    <h2> Studying Comptuter System Engineering at ITESM</h2>
-    <h2> Learning JavaScript and React</h2>
-    
+   <summary> <h1><p align="center"> About Me </p> </h1> </summary>
+    <p> I am from Mexico </p>
+    <p> Studying Comptuter System Engineering at ITESM</p>
+    <p> Learning JavaScript and React</p>
+    <p> I enjoy play videogames </p>
 <details>
   <summary>Languajes  <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="50"> </summary>
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
