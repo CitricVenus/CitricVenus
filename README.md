@@ -1,5 +1,5 @@
 
-<h2> <p align="center"> <img src="https://media.giphy.com/media/oASEJVd5lkgMBMDCcl/giphy.gif" width="50"> Hi, I'm Erick! <img src="https://media.giphy.com/media/oASEJVd5lkgMBMDCcl/giphy.gif" width="50"> </p> </h2>
+<h1> <p align="center"> <img src="https://media.giphy.com/media/oASEJVd5lkgMBMDCcl/giphy.gif" width="50"> Hi, I'm Erick! <img src="https://media.giphy.com/media/oASEJVd5lkgMBMDCcl/giphy.gif" width="50"> </p> </h1>
 <br>
 <details> 
       <summary align="center"><h3><p align="center"> About Me </p> </h3></summary>
