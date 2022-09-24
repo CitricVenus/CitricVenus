@@ -2,7 +2,7 @@
 <h1> <p align="center"> <img src="https://media.giphy.com/media/oASEJVd5lkgMBMDCcl/giphy.gif" width="50"> Hi, I'm Erick! <img src="https://media.giphy.com/media/oASEJVd5lkgMBMDCcl/giphy.gif" width="50"> </p> </h1>
 <br>
 <details> 
-      <summary align="center"><h3><p align="center"> About Me </p> </h3></summary>
+      <summary align="center"><h3><p align="center"> About Me 😺</p> </h3></summary>
        <p> - 🌮 I am from Mexico </p>
        <p> - 💻 Studying Comptuter System Engineering at ITESM</p>
        <p> - 🌱 I’m currently learning JavaScript and React</p>
