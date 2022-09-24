@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CitricVenus&langs_count=8)](https://github.com/CitricVenus/github-readme-stats)
+
 <h2> <p align="center"> <img src="https://media.giphy.com/media/oASEJVd5lkgMBMDCcl/giphy.gif" width="50"> Hi, I'm Erick! <img src="https://media.giphy.com/media/oASEJVd5lkgMBMDCcl/giphy.gif" width="50"> </p> </h2>
 <br>
    <h3><p align="center"> About Me </p> </h3>
@@ -23,7 +23,7 @@
 </details>
 
 <details>
-     <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CitricVenus&langs_count=8)](https://github.com/CitricVenus/github-readme-stats" height="45" /> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CitricVenus&langs_count=8)](https://github.com/CitricVenus/github-readme-stats)
 </details>
 
 
