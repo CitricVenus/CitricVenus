@@ -17,9 +17,9 @@
 
 <details>
 <summary> Contact me <img src="https://media.giphy.com/media/X8yP0AgGK0GQZaVXz9/giphy.gif" width="50"> </summary>
-<a href="https://www.linkedin.com/in/erick-alfonso-montan-lopez-692949218"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"  height="45"/></a>
-<a href="https://www.facebook.com/zonyyrave.maidenas"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"  height="45"/></a>
-<a href="https://www.instagram.com/monttiiy/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram" height="45" /></a>
+<a href="https://www.linkedin.com/in/erick-alfonso-montan-lopez-692949218"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" height="55"/></a>
+<a href="https://www.facebook.com/zonyyrave.maidenas"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"  height="55"/></a>
+<a href="https://www.instagram.com/monttiiy/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram" height="55" /></a>
 </details>
 
 
