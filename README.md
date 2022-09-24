@@ -1,8 +1,8 @@
 
 <h2> <p align="center"> <img src="https://media.giphy.com/media/oASEJVd5lkgMBMDCcl/giphy.gif" width="50"> Hi, I'm Erick! <img src="https://media.giphy.com/media/oASEJVd5lkgMBMDCcl/giphy.gif" width="50"> </p> </h2>
 <br>
-<details> <p align="center">
-      <summary><h3><p align="center"> About Me </p> </h3></summary>
+<details> 
+      <summary align="center"><h3><p align="center"> About Me </p> </h3></summary>
        <p> - 🌮 I am from Mexico </p>
        <p> - 💻 Studying Comptuter System Engineering at ITESM</p>
        <p> - 🌱 I’m currently learning JavaScript and React</p>
@@ -25,7 +25,7 @@
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CitricVenus&langs_count=8)](https://github.com/CitricVenus/github-readme-stats)
    <p> NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.</p>
-</p></details>
+</details>
 
 
 
