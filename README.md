@@ -17,10 +17,9 @@
 
 <details>
 <summary> Contact me <img src="https://media.giphy.com/media/X8yP0AgGK0GQZaVXz9/giphy.gif" width="50"> </summary>
-<a href="https://www.linkedin.com/in/erick-alfonso-montan-lopez-692949218/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/></a>
-<a href="https://www.linkedin.com/in/erick-alfonso-montan-lopez-692949218"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-<a href="https://www.facebook.com/zonyyrave.maidenas"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-<a href="https://www.instagram.com/monttiiy/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/erick-alfonso-montan-lopez-692949218"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"  height="35"/></a>
+<a href="https://www.facebook.com/zonyyrave.maidenas"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"  height="35"/></a>
+<a href="https://www.instagram.com/monttiiy/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram" height="35" /></a>
 </details>
 
 
