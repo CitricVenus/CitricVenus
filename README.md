@@ -16,7 +16,7 @@
 </details>
 
 <details>
-<summary> Contact me <img src="https://media.giphy.com/media/xUA7aMynBzJ3xG4JI4/giphy.gif" width="50"> </summary>
+<summary> Contact me <img src="https://media.giphy.com/media/g0sM3ysY4s1atzftDY/giphy.gif" width="50"> </summary>
 <a href="https://www.linkedin.com/in/erick-alfonso-montan-lopez-692949218/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/></a>
 </details>
 
