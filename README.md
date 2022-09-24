@@ -17,7 +17,7 @@
 
 <details>
 <summary> Contact me </summary>
-<a href="https://www.linkedin.com/in/erick-alfonso-montan-lopez-692949218/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/erick-alfonso-montan-lopez-692949218/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/></a>
 </details>
 
 
