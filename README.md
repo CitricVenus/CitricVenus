@@ -4,7 +4,7 @@
 <details> 
       <summary align="center"><h3><p align="center"> About Me 😺</p> </h3></summary>
        <p> - 🌮 I am from Mexico </p>
-       <p> - 💻 Studying Comptuter System Engineering at ITESM</p>
+       <p> - 💻 Comptuter System Engineering </p>
        <p> - 🌱 I’m currently learning JavaScript and React</p>
        <p> - 🎮 I enjoy play videogames </p>
    </br>
